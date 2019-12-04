@@ -32,7 +32,7 @@ try:
     import pygame
     from pygame import camera
 except ImportError:
-    print 'Error in import Pygame. This activity requires Pygame 1.9'
+    print('Error in import Pygame. This activity requires Pygame 1.9')
 
 class Puntillism():
 
